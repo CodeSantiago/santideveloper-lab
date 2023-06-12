@@ -41,6 +41,9 @@
 <hr>
 
 
+[![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santideveloper-lab)](https://github.com/santideveloper-lab/github-readme-stats)
+
+
 
 
 
