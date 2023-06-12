@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Santiago</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/TLnWsIBRegQyWxG4Dw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/work-computer-laptop-TLnWsIBRegQyWxG4Dw">via GIPHY</a></p>" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
