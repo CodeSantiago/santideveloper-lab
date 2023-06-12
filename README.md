@@ -1,23 +1,46 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+### Hi there 👋<h2> I'm Santiago</h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
 
 
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
-   technologies: {
-      frontEnd: [Html, Css, Boostrap]
-     },
-      backEnd: {
-         Python: ["Django"],
-       
-      },
-      databases: ["PostgreSQL", "mySQL", "SQLServer"],
-     
-   },
-   
-};
-```
-</br></br>
-<h2>💻 Some stats 💻</h2>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | Django |
+
+- 🌐 &nbsp; HTML | CSS | ----- | Bootstrap | -----
+
+- 🛢 &nbsp; | PostgreSQL | SQLite3 | MySQL |
+
+
+
+
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+
+<hr>
+
+
+
+
+
+
 
