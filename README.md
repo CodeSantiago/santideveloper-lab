@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Santiago</h2>
 
- <-- <img align='right' src="https://giphy.com/embed/TLnWsIBRegQyWxG4Dw" width="230"> -->
+
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -30,7 +30,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Java | React
 
 <hr>
 
